@@ -27,6 +27,7 @@ Algerian population in the 48 states (wilayas) of Algeria across the time from 1
 The active maintainers of this project are : 
 - Souames Mohamed Annis 
 - Bousselat Ahmed Moncef
+
 If you would like to contribute, send us an email at souames.annis@gmail.com
 
 ## License
