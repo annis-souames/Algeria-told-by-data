@@ -1,6 +1,6 @@
 # Algeria told by data
 
-This projects is a set of visualizations and animations made by Souames Mohamed Annis (@annis-souames) and Bousselat Ahmed Moncef (@Somnef).
+This projects is a set of visualizations and animations made by Souames Mohamed Annis (@annis-souames), Bousselat Ahmed Moncef (@Somnef) and Hafdi Ramy (@ramyh08).
 
 ## Current visualisations
 
