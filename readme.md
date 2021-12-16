@@ -23,6 +23,7 @@ You can find data sources in the readme file for each visualisation (folder).
 The active maintainers of this project are : 
 - Souames Mohamed Annis 
 - Bousselat Ahmed Moncef
+- Hafdi Ramy
 
 If you would like to contribute, send us an email at souames.annis@gmail.com
 
