@@ -22,7 +22,7 @@ You can find data sources in the readme file for each visualisation (folder).
 ## Contributing
 The active maintainers of this project are : 
 - Souames Mohamed Annis 
-- Bousselat Ahmed Moncef
+- Bousselat Ahmed Moncef ([Somnef](https://github.com/Somnef))
 - Hafdi Ramy
 
 If you would like to contribute, send us an email at souames.annis@gmail.com
